@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin.html
+Disallow: /cart.html
+
+Sitemap: https://pesachari.github.io/click-kli/sitemap.xml
